@@ -1,0 +1,2 @@
+target_id,camera_id,snapshot_id,vector_confidence_percent,gait_cadence_spm,height_m,clothing_signature,reidentification_status,historical_matches
+TARGET-001,CAM-C44,SNAPSHOT_001,94.8,82,1.82,"Black Leather Jacket / Red Helmet",confident,3

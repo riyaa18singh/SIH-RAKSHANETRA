@@ -1,0 +1,12 @@
+node_id,label,node_type,x_position,y_position
+s1,"Ravi Kumar @ Lambi",suspect,250,120
+s2,Imran S.,suspect,180,280
+s3,Deepa R.,suspect,380,240
+v1,"Pulsar 150 MH-12-PR-4471",vehicle,420,100
+v2,"Honda Activa MH-14-AB-9921",vehicle,100,200
+l1,"Jain Jewellers MG Road",location,320,380
+l2,Camp Area,location,500,320
+l3,"Old City Sector 3",location,160,420
+f1,FIR-2024-0891,fir,280,220
+f2,FIR-2023-0512,fir,460,200
+f3,FIR-2022-0880,fir,120,340

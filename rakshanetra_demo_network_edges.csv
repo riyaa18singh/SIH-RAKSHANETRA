@@ -1,0 +1,15 @@
+edge_id,from_node_id,to_node_id,relationship
+E-001,s1,v1,owns
+E-002,s1,f1,suspect in
+E-003,s1,f2,suspect in
+E-004,s2,v2,owns
+E-005,s2,f3,suspect in
+E-006,s2,s1,associate
+E-007,s3,f2,accomplice
+E-008,s3,s1,associate
+E-009,v1,l1,seen at
+E-010,v1,l2,fled to
+E-011,v2,l3,seen at
+E-012,f1,l1,location of
+E-013,f3,l3,location of
+E-014,f2,l2,location of

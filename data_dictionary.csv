@@ -1,0 +1,52 @@
+file_name,field_name,description,suggested_type
+rakshanetra_demo_stats.csv,metric_id,Unique metric identifier,integer
+rakshanetra_demo_stats.csv,metric_label,Dashboard metric name,text
+rakshanetra_demo_stats.csv,value,Metric value,text_or_decimal
+rakshanetra_demo_stats.csv,unit,Metric unit or denominator,text
+rakshanetra_demo_stats.csv,change_vs_last_24h,Change displayed against prior 24 hours,text
+rakshanetra_demo_incidents.csv,incident_id,Unique incident identifier,text
+rakshanetra_demo_incidents.csv,time,Displayed incident time,text
+rakshanetra_demo_incidents.csv,location,Incident source or location,text
+rakshanetra_demo_incidents.csv,severity,UI severity category,text
+rakshanetra_demo_incidents.csv,incident_type,Displayed incident classification,text
+rakshanetra_demo_incidents.csv,description,Displayed incident summary,text
+rakshanetra_demo_activity_trend.csv,time,Time bucket,text
+rakshanetra_demo_activity_trend.csv,fir_count,Illustrative FIR count,integer
+rakshanetra_demo_activity_trend.csv,flag_count,Illustrative suspect flag count,integer
+rakshanetra_demo_face_matches.csv,record_id,Historical record identifier,text
+rakshanetra_demo_face_matches.csv,similarity_percent,Illustrative similarity score,decimal
+rakshanetra_demo_fir_entities.csv,entity_type,Entity category extracted from FIR,text
+rakshanetra_demo_fir_entities.csv,entity_label,Entity name or label,text
+rakshanetra_demo_fir_entities.csv,details,Entity attributes,text
+rakshanetra_demo_fir_case_matches.csv,source_fir_id,FIR being analyzed,text
+rakshanetra_demo_fir_case_matches.csv,matched_fir_id,Matched historical FIR,text
+rakshanetra_demo_fir_case_matches.csv,similarity_percent,Illustrative M.O. similarity score,decimal
+rakshanetra_demo_fir_case_matches.csv,matching_pattern,Reason shown for the match,text
+rakshanetra_demo_network_nodes.csv,node_id,Unique graph node identifier,text
+rakshanetra_demo_network_nodes.csv,node_type,Graph category,text
+rakshanetra_demo_network_nodes.csv,x_position,Demo SVG x coordinate,integer
+rakshanetra_demo_network_nodes.csv,y_position,Demo SVG y coordinate,integer
+rakshanetra_demo_network_edges.csv,from_node_id,Source node identifier,text
+rakshanetra_demo_network_edges.csv,to_node_id,Target node identifier,text
+rakshanetra_demo_network_edges.csv,relationship,Relationship label,text
+rakshanetra_demo_gis_hotspots.csv,intensity,Hotspot display category,text
+rakshanetra_demo_gis_hotspots.csv,map_x,Demo map x coordinate,integer
+rakshanetra_demo_gis_hotspots.csv,map_y,Demo map y coordinate,integer
+rakshanetra_demo_gis_hotspots.csv,radius,Demo visual radius,integer
+rakshanetra_demo_patrol_route.csv,time_from_start,Estimated elapsed route time,text
+rakshanetra_demo_patrol_route.csv,distance_from_previous,Estimated distance for route segment,text
+rakshanetra_demo_xai_evidence.csv,contribution_percent,Illustrative evidence weighting,integer
+rakshanetra_demo_xai_evidence.csv,demonstration_detail,Explanation shown in the prototype,text
+rakshanetra_demo_target_profile.csv,target_id,Simulated target identifier,text
+rakshanetra_demo_target_profile.csv,vector_confidence_percent,Illustrative face-vector confidence,decimal
+rakshanetra_demo_target_profile.csv,gait_cadence_spm,Illustrative gait cadence in steps per minute,integer
+rakshanetra_demo_target_profile.csv,height_m,Illustrative height estimate in metres,decimal
+rakshanetra_demo_target_profile.csv,clothing_signature,Displayed clothing description,text
+rakshanetra_demo_fir_records.csv,fir_id,Sample FIR identifier,text
+rakshanetra_demo_fir_records.csv,description,Structured summary of the sample FIR text,text
+rakshanetra_demo_fir_records.csv,estimated_loss,Illustrative loss description,text
+rakshanetra_demo_fir_records.csv,cctv_cameras,Cameras referenced in the sample FIR,text
+rakshanetra_demo_patrol_units.csv,unit_id,Patrol unit identifier,text
+rakshanetra_demo_patrol_units.csv,status,Displayed unit availability,text
+rakshanetra_demo_patrol_units.csv,gps_latitude,Demonstration latitude,decimal
+rakshanetra_demo_patrol_units.csv,gps_longitude,Demonstration longitude,decimal

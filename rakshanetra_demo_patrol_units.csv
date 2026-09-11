@@ -1,0 +1,2 @@
+unit_id,unit_name,status,driver,gps_latitude,gps_longitude,route_id
+UNIT-004,Police Van #04,AVAILABLE,HC Patil,18.52,73.85,ROUTE-001

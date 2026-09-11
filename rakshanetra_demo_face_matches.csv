@@ -1,0 +1,4 @@
+match_id,record_id,name,district,crime,date,similarity_percent
+MATCH-001,FIR-2019-0847,"Ravi Kumar @ Lambi",South District,Armed Robbery,12 Mar 2019,94.8
+MATCH-002,FIR-2021-0331,Unknown Male (Re-ID),East District,Chain Snatching,07 Aug 2021,87.3
+MATCH-003,FIR-2023-0512,"Ravi Kumar @ Lambi",North District,Attempted Burglary,22 Nov 2023,81.6

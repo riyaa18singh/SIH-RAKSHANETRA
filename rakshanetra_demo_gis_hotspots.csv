@@ -1,0 +1,6 @@
+hotspot_id,label,intensity,map_x,map_y,radius
+HS-001,Sector 14 - Jeweller Robbery Zone,high,180,140,45
+HS-002,Camp Area - Snatching Hotspot,high,420,200,35
+HS-003,MG Road - Vehicular Crime,medium,300,320,30
+HS-004,Highway 8 - Collision Cluster,medium,500,350,25
+HS-005,Old City - Pickpocket Zone,low,120,380,28

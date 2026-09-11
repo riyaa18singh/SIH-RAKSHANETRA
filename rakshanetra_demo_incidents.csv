@@ -1,0 +1,9 @@
+incident_id,time,location,severity,incident_type,description
+INC-001,14:32:08,Sector 14 Gate B,red,Violent Offense,Armed robbery reported at local jeweler
+INC-002,14:28:51,Zone 7,yellow,M.O. Pattern,Matched with FIR #1042 - chain-snatching pattern
+INC-003,14:21:33,Social Media,blue,OSINT Spike,Spike in protest keywords across 3 platforms
+INC-004,14:15:02,Highway 8 Mile 22,red,Violent Offense,Vehicular collision with assault - unit dispatched
+INC-005,14:08:47,District 3,yellow,M.O. Pattern,Night burglary M.O. linked to suspect cluster #C-22
+INC-006,13:59:12,Dark Web Monitor,blue,OSINT Spike,Weapon sale listing detected on monitored forum
+INC-007,13:51:30,Railway Station,red,Violent Offense,Stabbing incident - victim stable, suspect fled
+INC-008,13:44:05,Old City,yellow,M.O. Pattern,Pickpocket cluster re-identified via gait match

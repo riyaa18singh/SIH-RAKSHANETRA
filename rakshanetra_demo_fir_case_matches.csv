@@ -1,0 +1,4 @@
+match_id,source_fir_id,matched_fir_id,title,district,date,similarity_percent,matching_pattern
+CASEMATCH-001,FIR-2024-RC-0891,FIR-2023-0512,Jewelery Heist - Karishma Jewellers,North District Pune,22 Nov 2023,91.4,"Two masked suspects; motorcycle escape; crowbar entry; knife threat"
+CASEMATCH-002,FIR-2024-RC-0891,FIR-2022-0880,Armed Robbery - Shree Gold House,Camp Area Pune,15 Feb 2022,85.7,"Black Pulsar 150; rear entrance; helmet suspect; gold and cash"
+CASEMATCH-003,FIR-2024-RC-0891,FIR-2024-0210,Attempted Burglary - Diamond World,MG Road Pune,03 Jan 2024,78.2,"Duffel bag; crowbar; 02:00 AM; two suspects; blue hoodie"

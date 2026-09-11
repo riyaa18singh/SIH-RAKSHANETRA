@@ -1,0 +1,4 @@
+evidence_id,case_id,suspect_id,evidence_type,contribution_percent,demonstration_detail
+XAI-001,FIR-2024-0891,SUSP-RK-04471,Face Vector (ArcFace),30,"Embedding matched with 94.8% cosine similarity"
+XAI-002,FIR-2024-0891,SUSP-RK-04471,Cell Tower CDR,40,"Device shown within 800m of crime scene at 02:12 IST"
+XAI-003,FIR-2024-0891,SUSP-RK-04471,M.O. Match (NLP),30,"M.O. vector matched 3 prior FIRs with 85.7% or higher similarity"

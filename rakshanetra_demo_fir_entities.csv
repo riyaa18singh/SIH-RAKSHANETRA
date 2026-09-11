@@ -1,0 +1,9 @@
+entity_id,fir_id,entity_type,entity_label,details
+ENT-001,FIR-2024-RC-0891,suspect,Suspect-1,"5'9; Black Leather Jacket; Red Helmet; Kitchen Knife"
+ENT-002,FIR-2024-RC-0891,suspect,Suspect-2,"5'6; Blue Hoodie; Metal Crowbar; Black Duffel Bag"
+ENT-003,FIR-2024-RC-0891,vehicle,Bajaj Pulsar 150,"MH-12-PR-4471; Black"
+ENT-004,FIR-2024-RC-0891,weapon,Kitchen Knife,Approximately 8 inch blade
+ENT-005,FIR-2024-RC-0891,weapon,Metal Crowbar,Pry tool
+ENT-006,FIR-2024-RC-0891,location,Jain Jewellers,"MG Road; Sector 14; Pune"
+ENT-007,FIR-2024-RC-0891,location,Escape Route,MG Road to Camp Area
+ENT-008,FIR-2024-RC-0891,location,Rear Entrance,Back alley entry point

@@ -1,0 +1,5 @@
+metric_id,metric_label,value,unit,change_vs_last_24h
+1,Active FIRs Processed,1842,count,+12%
+2,Suspect Flags Raised,34,count,+5
+3,Active Patrol Units,28,out_of_30,93%
+4,Cross-Modal AI Accuracy,98.4,percent,+0.3%

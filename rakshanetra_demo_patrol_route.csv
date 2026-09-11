@@ -1,0 +1,7 @@
+route_id,patrol_unit,step,location,time_from_start,distance_from_previous
+ROUTE-001,Police Van #04,1,HQ to Sector 14 (Jain Jewellers),00:04,2.1 km
+ROUTE-001,Police Van #04,2,Sector 14 to MG Road Junction,00:09,1.4 km
+ROUTE-001,Police Van #04,3,MG Road to Camp Area (Hotspot),00:15,2.8 km
+ROUTE-001,Police Van #04,4,Camp Area to Highway 8 Mile 22,00:22,4.5 km
+ROUTE-001,Police Van #04,5,Highway 8 to Old City Sector 3,00:31,3.2 km
+ROUTE-001,Police Van #04,6,Old City to HQ Return,00:38,2.0 km
